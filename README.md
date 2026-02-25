@@ -21,7 +21,7 @@ I build secure, portable cloud platforms for mission-critical environments. My b
 
 ## Background
 
-- **4+ years** as AWS Solutions Architect — enterprise migrations, Active Directory, .NET modernization, customer-facing workshops
+- **8+ years** as AWS Solutions Architect — enterprise migrations, Active Directory, .NET modernization, customer-facing workshops
 - **AWS Data Center Technician** — hardware diagnostics, Linux monitoring, enterprise server infrastructure
 - **8 years U.S. Army** — SIGINT Analyst/NCO, intelligence operations in multi-INT fusion environments
 - **6 years** supporting the Intelligence Community as a contractor (BAE Systems — FMV Analyst for MCIA)
